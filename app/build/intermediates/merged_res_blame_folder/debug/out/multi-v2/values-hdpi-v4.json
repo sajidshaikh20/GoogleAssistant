@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/sajid_shaikh/Sajid Imp Data/GoogleAssistant/Google Assistant/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/home/sajid_shaikh/.gradle/caches/transforms-3/a395b1c12dddac23364619cb434f461b/transformed/appcompat-1.2.0/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

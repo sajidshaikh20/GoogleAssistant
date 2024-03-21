@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "/home/sajid_shaikh/Sajid Imp Data/GoogleAssistant/Google Assistant/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/sajid_shaikh/Sajid Imp Data/GoogleAssistant/Google Assistant/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/sajid_shaikh/Sajid Imp Data/GoogleAssistant/Google Assistant/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/sajid_shaikh/Sajid Imp Data/GoogleAssistant/Google Assistant/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/sajid_shaikh/Sajid Imp Data/GoogleAssistant/Google Assistant/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/sajid_shaikh/Sajid Imp Data/GoogleAssistant/Google Assistant/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/sajid_shaikh/Sajid Imp Data/GoogleAssistant/Google Assistant/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/sajid_shaikh/Sajid Imp Data/GoogleAssistant/Google Assistant/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/sajid_shaikh/Sajid Imp Data/GoogleAssistant/Google Assistant/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/sajid_shaikh/Sajid Imp Data/GoogleAssistant/Google Assistant/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/sajid_shaikh/Sajid Imp Data/GoogleAssistant/Google Assistant/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/sajid_shaikh/Sajid Imp Data/GoogleAssistant/Google Assistant/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/sajid_shaikh/Sajid Imp Data/GoogleAssistant/Google Assistant/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/sajid_shaikh/Sajid Imp Data/GoogleAssistant/Google Assistant/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/sajid_shaikh/Sajid Imp Data/GoogleAssistant/Google Assistant/app/build/intermediates/res/merged/debug/anim_do_not_move.xml.flat",
+        "source": "/home/sajid_shaikh/Sajid Imp Data/GoogleAssistant/Google Assistant/app/src/main/res/anim/do_not_move.xml"
+    },
+    {
+        "merged": "/home/sajid_shaikh/Sajid Imp Data/GoogleAssistant/Google Assistant/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/sajid_shaikh/Sajid Imp Data/GoogleAssistant/Google Assistant/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/sajid_shaikh/Sajid Imp Data/GoogleAssistant/Google Assistant/app/build/intermediates/res/merged/debug/drawable-v24_googleasistant.jpg.flat",
+        "source": "/home/sajid_shaikh/Sajid Imp Data/GoogleAssistant/Google Assistant/app/src/main/res/drawable-v24/googleasistant.jpg"
+    },
+    {
+        "merged": "/home/sajid_shaikh/Sajid Imp Data/GoogleAssistant/Google Assistant/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/sajid_shaikh/Sajid Imp Data/GoogleAssistant/Google Assistant/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/sajid_shaikh/Sajid Imp Data/GoogleAssistant/Google Assistant/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/sajid_shaikh/Sajid Imp Data/GoogleAssistant/Google Assistant/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/sajid_shaikh/Sajid Imp Data/GoogleAssistant/Google Assistant/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/sajid_shaikh/Sajid Imp Data/GoogleAssistant/Google Assistant/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/sajid_shaikh/Sajid Imp Data/GoogleAssistant/Google Assistant/app/build/intermediates/res/merged/debug/drawable_ic_baseline_mic_24.xml.flat",
+        "source": "/home/sajid_shaikh/Sajid Imp Data/GoogleAssistant/Google Assistant/app/src/main/res/drawable/ic_baseline_mic_24.xml"
+    },
+    {
+        "merged": "/home/sajid_shaikh/Sajid Imp Data/GoogleAssistant/Google Assistant/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/sajid_shaikh/Sajid Imp Data/GoogleAssistant/Google Assistant/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/sajid_shaikh/Sajid Imp Data/GoogleAssistant/Google Assistant/app/build/intermediates/res/merged/debug/drawable_voice.png.flat",
+        "source": "/home/sajid_shaikh/Sajid Imp Data/GoogleAssistant/Google Assistant/app/src/main/res/drawable/voice.png"
+    },
+    {
+        "merged": "/home/sajid_shaikh/Sajid Imp Data/GoogleAssistant/Google Assistant/app/build/intermediates/res/merged/debug/layout_assistant_item_layout.xml.flat",
+        "source": "/home/sajid_shaikh/Sajid Imp Data/GoogleAssistant/Google Assistant/app/src/main/res/layout/assistant_item_layout.xml"
+    },
+    {
+        "merged": "/home/sajid_shaikh/Sajid Imp Data/GoogleAssistant/Google Assistant/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/sajid_shaikh/Sajid Imp Data/GoogleAssistant/Google Assistant/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/sajid_shaikh/Sajid Imp Data/GoogleAssistant/Google Assistant/app/build/intermediates/res/merged/debug/drawable-v24_googlemic.png.flat",
+        "source": "/home/sajid_shaikh/Sajid Imp Data/GoogleAssistant/Google Assistant/app/src/main/res/drawable-v24/googlemic.png"
+    },
+    {
+        "merged": "/home/sajid_shaikh/Sajid Imp Data/GoogleAssistant/Google Assistant/app/build/intermediates/res/merged/debug/drawable-v24_mic.png.flat",
+        "source": "/home/sajid_shaikh/Sajid Imp Data/GoogleAssistant/Google Assistant/app/src/main/res/drawable-v24/mic.png"
+    },
+    {
+        "merged": "/home/sajid_shaikh/Sajid Imp Data/GoogleAssistant/Google Assistant/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/sajid_shaikh/Sajid Imp Data/GoogleAssistant/Google Assistant/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/sajid_shaikh/Sajid Imp Data/GoogleAssistant/Google Assistant/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/home/sajid_shaikh/Sajid Imp Data/GoogleAssistant/Google Assistant/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/sajid_shaikh/Sajid Imp Data/GoogleAssistant/Google Assistant/app/build/intermediates/res/merged/debug/layout_activity_assistant.xml.flat",
+        "source": "/home/sajid_shaikh/Sajid Imp Data/GoogleAssistant/Google Assistant/app/src/main/res/layout/activity_assistant.xml"
+    }
+]
